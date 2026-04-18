@@ -25,22 +25,22 @@ Built with Google Sheets, SQL (SQLite + DBeaver), and data visualization.
 ## Charts & Findings
 
 ### Top 10 Scorers
-![Top Scorers](charts/Top%2010%20Premier%20League%20Scorers%202023_24.png)
+![Top Scorers](charts/top_scorers.png)
 
 ### Home vs Away Performance
-![Home vs Away](charts/Home%20vs%20Away%20Points%20%E2%80%94%20PL%202023_24.png)
+![Home vs Away](charts/home_away.png)
 
 ### League Table — Big Six
-![League Table](charts/League%20Table%20-%20Big%20Six.png)
+![League Table](charts/league_table.png)
 
 ### Team Discipline
-![Discipline](charts/Team%20Discipline%20%E2%80%94%20PL%202023_24%20(1).png)
+![Discipline](charts/discipline.png)
 
 ### Goals by Nationality
-![Goals by Country](charts/Premier%20League%20Goals%20by%20Nationality%202023_24.png)
+![Goals by Country](charts/goals_by_country.png)
 
 ### Dashboard
-![Dashboard](charts/Results_Dashboard.png)
+![Dashboard](charts/dashboard.png)
 
 ## SQL Queries
 All queries are in the `/sql` folder covering:
