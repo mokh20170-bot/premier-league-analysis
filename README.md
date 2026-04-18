@@ -34,7 +34,7 @@ Built with Google Sheets, SQL (SQLite + DBeaver), and data visualization.
 ![League Table](charts/league_table.png)
 
 ### Team Discipline
-Charts/discipline.png.png
+[Charts/discipline.png.png](https://github.com/mokh20170-bot/premier-league-analysis/blob/fd04f71608f740409aa11394fc0c5600a389c1da/Charts/discipline.png.png)
 
 ### Goals by Nationality
 ![Goals by Country](charts/goals_by_country.png)
