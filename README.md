@@ -34,7 +34,7 @@ Built with Google Sheets, SQL (SQLite + DBeaver), and data visualization.
 ![League Table](charts/league_table.png)
 
 ### Team Discipline
-![Discipline](charts/discipline.png)
+Charts/discipline.png.png
 
 ### Goals by Nationality
 ![Goals by Country](charts/goals_by_country.png)
