@@ -25,22 +25,22 @@ Built with Google Sheets, SQL (SQLite + DBeaver), and data visualization.
 ## Charts & Findings
 
 ### Top 10 Scorers
-![Top Scorers](charts/top_scorers.png)
+[charts/top_scorers.png.png](https://github.com/mokh20170-bot/premier-league-analysis/blob/f195d1b68a1fdf74d9fc8163d35bbfc55780ce5b/Charts/top_scorers.png.png)
 
 ### Home vs Away Performance
-![Home vs Away](charts/home_away.png)
+[charts/home_away.png.png](https://github.com/mokh20170-bot/premier-league-analysis/blob/f195d1b68a1fdf74d9fc8163d35bbfc55780ce5b/Charts/home_away.png.png)
 
 ### League Table — Big Six
-![League Table](charts/league_table.png)
+[charts/league_table.png.png](https://github.com/mokh20170-bot/premier-league-analysis/blob/f195d1b68a1fdf74d9fc8163d35bbfc55780ce5b/Charts/league_table.png.png)
 
 ### Team Discipline
 [Charts/discipline.png.png](https://github.com/mokh20170-bot/premier-league-analysis/blob/fd04f71608f740409aa11394fc0c5600a389c1da/Charts/discipline.png.png)
 
 ### Goals by Nationality
-![Goals by Country](charts/goals_by_country.png)
+[charts/goals_by_country.png.png](https://github.com/mokh20170-bot/premier-league-analysis/blob/f195d1b68a1fdf74d9fc8163d35bbfc55780ce5b/Charts/goals_by_country.png.png)
 
 ### Dashboard
-![Dashboard](charts/dashboard.png)
+[charts/dashboard.png.png](https://github.com/mokh20170-bot/premier-league-analysis/blob/f195d1b68a1fdf74d9fc8163d35bbfc55780ce5b/Charts/dashboard.png.png)
 
 ## SQL Queries
 All queries are in the `/sql` folder covering:
